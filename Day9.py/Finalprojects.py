@@ -31,6 +31,5 @@ while not biding_finished:
         biding_finished = True
         find_highest_bid(bids)
     elif should_continue =="yes":
-        clear()
-    
+        clear()    
 
