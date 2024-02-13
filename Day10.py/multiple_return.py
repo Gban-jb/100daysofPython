@@ -5,4 +5,3 @@ def format_name(f_name, l_name):
 
 
 format_name(input("Enter the first name?"), input("Enter the last name?"))
-
