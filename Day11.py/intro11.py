@@ -34,7 +34,7 @@ def calculate_score(cards):
     if sum(cards) == 21 and len(cards) == 2:
         return 0
 
- #step 8
+ #step 8g
  
     if 11 in cards and sum(cards) > 21:
         cards.remove(11)
